@@ -6,3 +6,12 @@ G:\SADDAM HOSSAIN RANA\ProductEntryApp\ProductEntryApp\obj\Debug\ProductEntryApp
 G:\SADDAM HOSSAIN RANA\ProductEntryApp\ProductEntryApp\obj\Debug\ProductEntryApp.csproj.GenerateResource.Cache
 G:\SADDAM HOSSAIN RANA\ProductEntryApp\ProductEntryApp\obj\Debug\ProductEntryApp.exe
 G:\SADDAM HOSSAIN RANA\ProductEntryApp\ProductEntryApp\obj\Debug\ProductEntryApp.pdb
+G:\SADDAM HOSSAIN RANA\ProductEntry-master\ProductEntry-master\ProductEntryApp\bin\Debug\ProductEntryApp.exe.config
+G:\SADDAM HOSSAIN RANA\ProductEntry-master\ProductEntry-master\ProductEntryApp\obj\Debug\ProductEntryApp.exe
+G:\SADDAM HOSSAIN RANA\ProductEntry-master\ProductEntry-master\ProductEntryApp\obj\Debug\ProductEntryApp.pdb
+G:\SADDAM HOSSAIN RANA\ProductEntry-master\ProductEntry-master\ProductEntryApp\bin\Debug\ProductEntryApp.exe
+G:\SADDAM HOSSAIN RANA\ProductEntry-master\ProductEntry-master\ProductEntryApp\bin\Debug\ProductEntryApp.pdb
+G:\SADDAM HOSSAIN RANA\ProductEntry-master\ProductEntry-master\ProductEntryApp\obj\Debug\ProductEntryApp.csprojResolveAssemblyReference.cache
+G:\SADDAM HOSSAIN RANA\ProductEntry-master\ProductEntry-master\ProductEntryApp\obj\Debug\ProductEntryApp.ProductEntryUI.resources
+G:\SADDAM HOSSAIN RANA\ProductEntry-master\ProductEntry-master\ProductEntryApp\obj\Debug\ProductEntryApp.Properties.Resources.resources
+G:\SADDAM HOSSAIN RANA\ProductEntry-master\ProductEntry-master\ProductEntryApp\obj\Debug\ProductEntryApp.csproj.GenerateResource.Cache

@@ -39,13 +39,14 @@ namespace ProductEntryApp
             List<Product> aProductList = aProductBll.GetAllProductList();
 
             foreach (Product product in aProductList)
-            {
+            {                                                                                                         
                 ListViewItem item = new ListViewItem(product.ProductCode);
                 item.SubItems.Add(product.Name);
                 item.SubItems.Add(product.Quantity.ToString());
                 viewAllProductListBox.Items.Add(item);
               
             }
+            totalQuantityTextBox.Text = aProductBll.GetTotalQuantity();
         }
     }
 }

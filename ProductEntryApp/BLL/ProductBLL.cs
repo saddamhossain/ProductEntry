@@ -70,5 +70,18 @@ namespace ProductEntryApp.BLL
             aProductGateway = new ProductGateway();
             return aProductGateway.GetAllProduct();
         }
+
+        public string GetTotalQuantity()
+        {
+            double quantity = 0;
+            
+            List<Product> productList = GetAllProductList();
+
+            foreach (var aProduct in productList)
+            {
+                quantity += aProduct.Quantity;
+            }
+            return quantity.ToString();
+        }
     }
 }
